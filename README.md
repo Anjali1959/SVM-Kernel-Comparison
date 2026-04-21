@@ -1,1 +1,1 @@
-Comparison of SVM kernels (Linear, Polynomial, and RBF) using the Breast Cancer dataset to analyze classification accuracy.
+A collection of SVM projects covering Breast Cancer detection, Digit recognition, and Iris flower classification using different kernels.
