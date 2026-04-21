@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, classification_report
 
-# Dataset load karein
+
 data = datasets.load_breast_cancer()
 X = data.data
 y = data.target
